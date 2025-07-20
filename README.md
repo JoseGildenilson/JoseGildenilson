@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&text=&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff&text=&fontColor=ffffff" />
 
 <br>
 
@@ -24,16 +24,6 @@
 </div>
 
 </div>
-
-
-
-
-<details align="center">  
-  <summary>
-      <samp style="color:white;">
-        <b>Mais sobre mim</b>
-      </samp>
-  </summary>
   
   <br>
 
@@ -57,26 +47,16 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseGildenilson&theme=dark"
   />
   <br><br>
-  <img
-    height=154
-    align="center"
-    alt="Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=JoseGildenilson&theme=dark&ring=9745f5&fire=ffffff&currStreakLabel=ffffff"
-  />
+
 </div>
 
 <br>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vim-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Qt-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,linux,css,html,js" />
+  </a>
+</p>
 
 <br>
 
@@ -92,14 +72,13 @@
   </samp>
   <br><br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gildenilsondejesus@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui/)
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josegildenilson@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-gildenilson-07a235347/)
 </div>
 
 <br>
 
-</details>
 
 <br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
