@@ -1,84 +1,116 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff&text=&fontColor=ffffff" />
+# 👨‍💻 José Gildenilson
 
-<br>
+**`Software Developer`**
 
-<div align="center">
-  <samp style="color: white;">
-      <br>
-      Hi! I'm Gil
-  </samp>
-</div>
+Me chamo Gil, sou estudante de Tecnologia da Informação e tenho grande interesse por programação e desenvolvimento de software. Atualmente, estou aprofundando meus estudos em C, C++ e Java, além de explorar conceitos de estruturas de dados, algoritmos e sistemas operacionais. Utilizo Linux como meu principal ambiente de estudo, o que me permite experimentar e otimizar diferentes soluções no dia a dia. Busco transformar meu aprendizado em projetos práticos, tanto acadêmicos quanto pessoais, construindo um portfólio que reflita minha evolução na área de TI.
 
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJoseGildenilson&s=21&c=ffffff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
-      
-      
-<div align="center">
-  <img src="https://imgur.com/hmD0KIs.png" width="180">
-</div>
-
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFFFFF&width=900&size=22&center=true&lines=Information+Technology+Student;Welcome+to+my+tech+universe" alt="Typing SVG"/>
-</div>
-
-</div>
-  
-  <br>
-
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=JoseGildenilson&show_icons=true&count_private=true&rank_icon=github&theme=dark&text_color=ffffff&icon_color=ffffff"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGildenilson&layout=compact&theme=dark&text_color=ffffff&icon_color=ffffff"
-  />
-  <br><br>
-  <img
-    align="center"
-    alt="Resumo de perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseGildenilson&theme=dark"
-  />
-  <br><br>
-
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,c,linux,css,html,js" />
-  </a>
+<p align="left">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/jos%C3%A9-gildenilson-07a235347/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/gil_dev_/">
+        <img 
+            alt="Instagram" 
+            title="Siga-me no Instagram" 
+            src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="mailto:josegildenilson@gmail.com">
+        <img 
+            alt="Email" 
+            title="Entre em contato por e-mail" 
+            src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
 </p>
 
-<br>
 
-##
+---
 
-<br>
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">
-  <samp style="color:white;">
-    <b>
-      Contato:
-    </b>
-  </samp>
-  <br><br>
+<img 
+    align="left" 
+    alt="C" 
+    title="C" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josegildenilson@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-gildenilson-07a235347/)
-</div>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
 
-<br>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
 
-<br><br>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Bash" 
+    title="Bash" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+
+
+<br clear="left"/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=JoseGildenilson&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGildenilson&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
